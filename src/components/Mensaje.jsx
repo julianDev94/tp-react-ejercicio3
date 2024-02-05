@@ -10,6 +10,8 @@ const Mensaje = ({ valorMensaje }) => {
     setMsj(valorMensaje2);
   };
 
+  
+
   return (
     <section>
       <p className="fs-3 fw-bold">
